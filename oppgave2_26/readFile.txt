@@ -1,0 +1,26 @@
+Hello World!
+dette er en fil for demonstrasjon av kopiering av en fil over til en annenArbitrary string to be written to a file.
+yolo
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Nunc sodales mi nunc, vel tristique dolor tempor nec. 
+Nulla metus justo, euismod ut diam ut, accumsan semper mauris. 
+Integer aliquet urna sapien, a molestie leo ornare eu. Sed ut lobortis neque, malesuada dapibus felis. 
+Donec augue quam, facilisis eget consectetur in, lobortis ac enim. Phasellus pulvinar arcu faucibus gravida efficitur. 
+Phasellus quis posuere est. In eu mauris porttitor, tempor ipsum ac, pharetra neque. 
+Proin quis feugiat felis, nec eleifend tortor. Proin tempus mauris in ipsum interdum rutrum. 
+Nulla blandit id nibh laoreet ultricies. Aenean tempus nisl vitae lacus imperdiet rutrum. 
+Nullam magna ex, blandit sed laoreet sed, consectetur eget sem.
+
+Maecenas scelerisque volutpat eros vitae ultrices. 
+Cras sagittis ipsum vitae ipsum laoreet, sit amet placerat nunc ullamcorper. Curabitur volutpat dui tincidunt orci imperdiet dapibus. 
+Sed vel enim quam. Nunc ornare pulvinar risus. Ut hendrerit elementum ipsum, non volutpat urna pharetra nec. 
+Nulla scelerisque mauris tortor, ac eleifend tellus faucibus a. Maecenas nec sagittis risus, ac lobortis ante.
+
+Nullam leo velit, hendrerit non purus et, pulvinar sodales mi. 
+Nam lobortis ante at rutrum consequat. Nulla fringilla nunc non neque varius facilisis vitae hendrerit velit. 
+Donec sit amet lacus fringilla velit malesuada accumsan. Nullam eget est quis velit sodales congue ultrices vel velit. 
+Aenean hendrerit imperdiet dui, quis vehicula lorem euismod vitae. Sed consequat hendrerit ullamcorper. 
+Nulla vitae augue nec mauris suscipit tristique ornare eget sem. Donec id turpis a libero fringilla accumsan. 
+Suspendisse id turpis nunc. Aliquam massa sem, consectetur id hendrerit vitae, faucibus vitae elit. 
+Morbi dictum posuere metus, vitae maximus urna tincidunt ut. In dictum sem eu quam interdum pulvinar. 
+Morbi tempus mattis sem et blandit. Mauris vitae interdum neque, a mollis augue.
